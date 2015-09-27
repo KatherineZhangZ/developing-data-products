@@ -14,6 +14,6 @@ The project is on Shiny R-studio sever: https://dataproducts2015.shinyapps.io/sh
 
 * Picks the number of clusters. The defualt number of cluster is 3. 
 
-* The chart on the right will plot the K-mean clusters result based on the two features selects. 
+* The K-mean clusters are caculated based on the above selections and the result is shown in a plot.
 
 
