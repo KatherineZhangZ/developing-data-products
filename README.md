@@ -7,3 +7,5 @@ install.package("rattle")
 data(wine,package="rattle")
 
 The project is on Shiny R-studio sever: https://dataproducts2015.shinyapps.io/shiny_wine
+
+User select two features of wines one as X axis, the other as Y axis using the drop down manu. 
